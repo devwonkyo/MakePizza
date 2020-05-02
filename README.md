@@ -1,6 +1,9 @@
 # MakePizza
 Java사용 피자만들기 콘솔게임
 
+쓰레드 관리도
+-
+![gameThread](./iamge/thread.PNG)
 
 캡처 이미지
 -
